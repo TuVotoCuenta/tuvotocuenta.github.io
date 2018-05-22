@@ -1,1 +1,44 @@
-theme: jekyll-theme-minimal
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Intelligent and Scalable Azure Apps Hack"
+keywords:    "Intelligent and Scalable Azure Apps Hack"
+description: "Resources for Azure Cognitive Hackathon"
+source_link: "https://github.com/rcervantes/azure-intelligent-hack"
+favicon:     ""
+touch_icon:  ""
+google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  lightblue: '#e1e7ee'
+  lightorange: '#f9e08c'
+  lightpurple: '#baafd3'
+  lightgreen: '#aaddd6'
+  lightgray: '#d6dbe0'
+  lightpink: '#edd6d6'
+  
+kramdown:
+  auto_ids:  false
+
