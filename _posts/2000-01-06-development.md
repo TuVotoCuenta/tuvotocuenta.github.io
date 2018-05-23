@@ -1,5 +1,5 @@
 ---
-title: "development"
+title: "Contacto"
 bg: lightpink
 color: black
 fa-icon: plug
