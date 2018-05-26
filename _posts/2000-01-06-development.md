@@ -2,7 +2,7 @@
 title: "Contacto"
 bg: lightpink
 color: black
-fa-icon: vcard-o
+fa-icon: inbox
 ---
 
 ## Contacto
