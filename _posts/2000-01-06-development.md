@@ -2,15 +2,16 @@
 title: "Contacto"
 bg: lightpink
 color: black
-fa-icon: plug
+fa-icon: fa-address-card-o
 ---
 
 ## Contacto
 
 ¿Quieres ayudar al proyecto?
 
-Puedes hacerlo de las siguientes formas:
+Necesitamos ayuda de todo tipo: diseño gráfico, legal, programadores, difusión, etc.
 
-Contacto
+Ponte en contacto:
 
-Etc
+## Email - info@tuvotocuenta.com.mx
+## Facebook - https://www.facebook.com/TVCmx/
