@@ -2,7 +2,7 @@
 title: "Contacto"
 bg: lightpink
 color: black
-fa-icon: fa-address-card-o
+fa-icon: address-card-o
 ---
 
 ## Contacto
