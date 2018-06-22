@@ -22,7 +22,7 @@ Esta “cadena de bloques” tiene un requisito importante: debe haber varios us
 Así, la blockchain o cadena de datos ofrece un registro a prueba de modificaciones de cada transacción ejecutada en un sistema, lo que brinda la oportunidad de trabajar con datos de manera confiable y eficiente.
 
 <div style="text-align:center">
-  <img src="https://github.com/TuVotoCuenta/tuvotocuenta.github.io/blob/master/_posts/blockchainexplicadapictoline.png" />
+  <img src="https://github.com/TuVotoCuenta/tuvotocuenta.github.io/blob/master/_posts/bcpicto.png" />
 </div>
 
 
