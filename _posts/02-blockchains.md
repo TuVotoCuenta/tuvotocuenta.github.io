@@ -13,7 +13,7 @@ La app de manera automática guarda una copia del archivo en una base de datos s
 
 Los datos son almacenados de manera segura y son puestos a disposición de la ciudadanía para su libre acceso y análisis.
 
-### ¿Qué es blockchain?
+## ¿Qué es blockchain?
 
 Una *blockchain* o [cadena de bloques](https://es.wikipedia.org/wiki/Cadena_de_bloques) es una estructura de datos pública que registra cada transacción ejecutada en un sistema en forma de “bloques” enlazados y cifrados para proteger la seguridad y privacidad de las transacciones. Puede verse como un registro notarial dividio en páginas. Cada página tendría un sello notarial extremadamente complejo que haría imposible falsificar cualquier entrada, dado que el sello tendría que ser cambiado también. En nuestro caso, es además una base de datos distribuida y segura que garantiza la integridad e inmutabilidad de los datos registrados en ella.
 
@@ -22,14 +22,7 @@ Esta “cadena de bloques” tiene un requisito importante: debe haber varios us
 Así, la blockchain o cadena de datos ofrece un registro a prueba de modificaciones de cada transacción ejecutada en un sistema, lo que brinda la oportunidad de trabajar con datos de manera confiable y eficiente.
 
 <div style="text-align:center">
-  <img src="./blockchainexplicadapictoline.png" />
+  <img src="https:github.com/TuVotoCuenta/tuvotocuenta.github.io/_posts/blockchainexplicadapictoline.png" />
 </div>
 
 
-
-
-<span id="forkongithub">
-  <a href="{{ ./03-funcionamiento.md }}" class="bg-orange">
-    Detalles de funcionamiento de Tu Voto Cuenta.
-   </a>
-</span>

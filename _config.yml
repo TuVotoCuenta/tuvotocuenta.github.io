@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "Tu Voto Cuenta 2018"
 keywords:    "Tu Voto Cuenta 2018"
 description: "Tu Voto Cuenta es una plataforma digital gratuita y abierta desarrollada de manera independiente por un grupo de Mexicanos con la intención de servir de apoyo para proteger la integridad del voto en el próximo proceso electoral"
-#source_link: "https://github.com/rcervantes/azure-intelligent-hack"
+#source_link: "https://github.com/TuVotoCuenta/tuvotocuenta.github.io"
 source_link: ""
 favicon:     ""
 touch_icon:  ""

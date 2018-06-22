@@ -5,15 +5,13 @@ color: black
 fa-icon: inbox
 ---
 
-## Aviso de Privacidad de Datos
+## Aviso de Privacidad de Datos y Condiciones de Uso
 
 
 
 
 
-<span id="forkongithub">
-  <a href="{{ ./06-contactos.md }}" class="bg-orange">
-    Contactos
-   </a>
-</span>
+
+
+
 

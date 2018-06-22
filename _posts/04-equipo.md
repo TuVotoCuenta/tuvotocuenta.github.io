@@ -18,9 +18,3 @@ ideadores, relacionadores y legalizadores que han participado.
 Camilo Olea - Rodrigo Sanchez - Roberto Cervantes - Humberto Jaimes - Pedro Navarro - Karel Zapfe - Mauricio Ocampo - Michelle Colin - Cesar Moreno - Amin Espinoza - Saturnino Pimentel
 
 
-<span id="forkongithub">
-  <a href="{{ ./05-legal.md }}" class="bg-orange">
-    Contactos
-   </a>
-</span>
-

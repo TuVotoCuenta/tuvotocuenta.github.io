@@ -21,9 +21,3 @@ que tenga,
 pueda modificar los datos una vez enviados. Nosotros tampoco podemos. 
 
 
-<span id="forkongithub">
-  <a href="{{ ./04-equipo.md }}" class="bg-orange">
-    Equipo
-   </a>
-</span>
-
