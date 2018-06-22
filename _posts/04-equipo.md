@@ -19,7 +19,7 @@ Camilo Olea - Rodrigo Sanchez - Roberto Cervantes - Humberto Jaimes - Pedro Nava
 
 
 <span id="forkongithub">
-  <a href="{{ ./05-contactos.md }}" class="bg-orange">
+  <a href="{{ ./05-legal.md }}" class="bg-orange">
     Contactos
    </a>
 </span>
