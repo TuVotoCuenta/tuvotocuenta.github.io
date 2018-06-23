@@ -14,8 +14,4 @@ fa-icon: cogs
 
 
 
-<div style="text-align:center">
-  <img src="http://www.oleaconsulting.com.mx/tvc/blockchain-tvc.png" />
-</div>
-
 
