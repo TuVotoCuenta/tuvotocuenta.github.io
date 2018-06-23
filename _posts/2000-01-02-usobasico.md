@@ -1,5 +1,5 @@
 ---
-title: "Como Funciona"
+title: "Uso Básico"
 bg: lightblue
 color: black
 fa-icon: cogs
