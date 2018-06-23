@@ -1,5 +1,5 @@
 ---
-title: "Uso Básico"
+title: "Uso Basico"
 bg: lightblue
 color: black
 fa-icon: cogs
