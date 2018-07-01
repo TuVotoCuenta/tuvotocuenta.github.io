@@ -13,6 +13,10 @@ La app de manera automática guarda una copia del archivo en una base de datos s
 
 Los datos son almacenados de manera segura y son puestos a disposición de la ciudadanía para su libre acceso y análisis.
 
+<div style="text-align:center">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/VBOkfKzb5Ts?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## ¿Qué es blockchain?
 
 Una *blockchain* o [cadena de bloques](https://es.wikipedia.org/wiki/Cadena_de_bloques) es una estructura de datos pública que registra cada transacción ejecutada en un sistema en forma de “bloques” enlazados y cifrados para proteger la seguridad y privacidad de las transacciones. Puede verse como un registro notarial dividido en páginas. Cada página tendría un sello notarial extremadamente complejo que haría imposible falsificar cualquier entrada, dado que el sello tendría que ser cambiado también. En nuestro caso, es además una base de datos distribuida y segura que garantiza la integridad e inmutabilidad de los datos registrados en ella.
