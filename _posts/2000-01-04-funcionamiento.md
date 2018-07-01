@@ -16,4 +16,4 @@ Este identificador único es almacenado junto con otros datos numéricos (los vo
 Contamos con todo el poder de los nodos de Ethereum para llevar a cabo el sellado criptográfico de los bloques, asegurando que nadie, incluyéndonos, pueda modificar los datos una vez enviados a la cadena de bloques. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VBOkfKzb5Ts?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" style="text-align:center;" src="https://www.youtube.com/embed/VBOkfKzb5Ts?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
