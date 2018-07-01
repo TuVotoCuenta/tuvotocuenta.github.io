@@ -15,7 +15,5 @@ y datos que se envíen de cada casilla. Una función *hash* es extremadamente se
 Este identificador único es almacenado junto con otros datos numéricos (los votos totales, la localización geográfica de la casilla) en una de las *blockchains* mas estables y confiables en este momento, la plataforma [Ethereum](https://es.wikipedia.org/wiki/Ethereum).
 Contamos con todo el poder de los nodos de Ethereum para llevar a cabo el sellado criptográfico de los bloques, asegurando que nadie, incluyéndonos, pueda modificar los datos una vez enviados a la cadena de bloques. 
 
-<div style="text-align:center">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/VBOkfKzb5Ts?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+
 
